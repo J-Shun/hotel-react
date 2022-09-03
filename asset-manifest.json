@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/hotel-react/static/css/main.04aeb4df.css",
+    "main.js": "/hotel-react/static/js/main.4dbc0a8f.js",
+    "static/media/home-carousel-4.png": "/hotel-react/static/media/home-carousel-4.2d396ebb42a62d824a9c.png",
+    "static/media/home-carousel-1.png": "/hotel-react/static/media/home-carousel-1.0efa79b6bf45bc795d63.png",
+    "static/media/home-carousel-3.png": "/hotel-react/static/media/home-carousel-3.ec027146d360262d37ac.png",
+    "static/media/home-carousel-2.png": "/hotel-react/static/media/home-carousel-2.f342eaff2d573af50365.png",
+    "static/media/houseIcon.svg": "/hotel-react/static/media/houseIcon.a409488e3a3dd6291a89e7d4890af957.svg",
+    "static/media/pay.svg": "/hotel-react/static/media/pay.e6aa3825174c3fa466e18a664a12f95a.svg",
+    "static/media/pet.svg": "/hotel-react/static/media/pet.b1858af7ab6047655aee9b8058e9067e.svg",
+    "static/media/phone.svg": "/hotel-react/static/media/phone.2cc7c0b462ec39b274a42b6b0758ec48.svg",
+    "static/media/mini-bar.svg": "/hotel-react/static/media/mini-bar.94c10479fbc21016c4f3b0c39bef6327.svg",
+    "static/media/breakfast.svg": "/hotel-react/static/media/breakfast.66db71506a36db7079e94fa47ce1a2cb.svg",
+    "static/media/room-service.svg": "/hotel-react/static/media/room-service.54d3597946dead30c0d0a1fdf560deba.svg",
+    "static/media/sofa.svg": "/hotel-react/static/media/sofa.e712e2b0548dca390f6c11e738d1c58e.svg",
+    "static/media/view.svg": "/hotel-react/static/media/view.74776dea09fd3b31f18f8e1c9b7aeaa2.svg",
+    "static/media/child-friendly.svg": "/hotel-react/static/media/child-friendly.d90e3a5fb45486e46d455eb9ffee8dd3.svg",
+    "static/media/no-smoking.svg": "/hotel-react/static/media/no-smoking.c50e0a0799054423eea529474928057d.svg",
+    "static/media/air-conditioner.svg": "/hotel-react/static/media/air-conditioner.30f71a4994af13550ea29b28cb5045b0.svg",
+    "static/media/freezer.svg": "/hotel-react/static/media/freezer.f5488fa2d085abee58ea8184616b2739.svg",
+    "static/media/wifi.svg": "/hotel-react/static/media/wifi.898a8b4f871ca3f01a55ea26a35a4bab.svg",
+    "static/media/contact.svg": "/hotel-react/static/media/contact.829f5c23b41abad8f51601da4803afd7.svg",
+    "static/media/result.svg": "/hotel-react/static/media/result.f315a4b53b9313e9e76c9a7af67254da.svg",
+    "static/media/log.svg": "/hotel-react/static/media/log.fee732895440d5c93a56129a22a97e30.svg",
+    "index.html": "/hotel-react/index.html",
+    "static/media/close.svg": "/hotel-react/static/media/close.b63ec7f270f10614af9117e812ea1552.svg",
+    "static/media/fail.svg": "/hotel-react/static/media/fail.005552abb85b0660e20c3086c813ea0d.svg",
+    "static/media/cancel.svg": "/hotel-react/static/media/cancel.637da60078b2955ab83ac86216dd5af0.svg",
+    "static/media/img-arrow.svg": "/hotel-react/static/media/img-arrow.2dfbca2d3644a3bc8e84530c0e18f8be.svg",
+    "static/media/arrow.svg": "/hotel-react/static/media/arrow.1d7c9469a9b044803a20a8251e63b38f.svg",
+    "static/media/success.svg": "/hotel-react/static/media/success.f7503a11740c97cf5f605ed91a0b8cc2.svg",
+    "static/media/flow.svg": "/hotel-react/static/media/flow.13dcc0c6a0bbd20d5ed142b93b106250.svg",
+    "static/media/ok.svg": "/hotel-react/static/media/ok.07536bc203e4a99996251cbebc868253.svg",
+    "main.04aeb4df.css.map": "/hotel-react/static/css/main.04aeb4df.css.map",
+    "main.4dbc0a8f.js.map": "/hotel-react/static/js/main.4dbc0a8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04aeb4df.css",
+    "static/js/main.4dbc0a8f.js"
+  ]
+}
